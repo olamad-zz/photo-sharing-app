@@ -1,4 +1,4 @@
-photopoll1.0
+newphotopoll
 ============
 
-photopoll1.0
+newphotopoll
