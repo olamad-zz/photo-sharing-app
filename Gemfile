@@ -11,7 +11,7 @@ gem "paperclip", "3.4.1"
 gem "paperclip_database", "1.0.5"
 
 group :production do
-  gem 'therubyracer'
+  gem 'therubyracer', "12.0"
 end
 
 # Gems used only for assets and not required
